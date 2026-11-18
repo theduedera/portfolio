@@ -27,3 +27,5 @@
 .intro p{font-size:14px;max-width:440px}.contact>.shell>.contact-intro{max-width:470px;margin:24px 0 0;font-size:14px;line-height:1.8}
 @media(max-width:1000px){.intro .desktop{display:none}}
 @media(max-width:700px){.intro p{font-size:13px}.contact>.shell>.contact-intro{font-size:13px;max-width:310px}}
+
+.demo-badge{position:absolute;top:14px;left:14px;z-index:1;padding:6px 9px;background:#252722e8;color:#fff;font:9px var(--mono);letter-spacing:.8px;border:1px solid #ffffff40}
